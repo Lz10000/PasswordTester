@@ -1,7 +1,9 @@
 # PasswordTester
 
 To run from command line:
-
+```bash
 $ cd TicTacToe
 $ javac src/*.java
-$ java -cp src PasswordTester.Main
+$ java -cp src PasswordTester
+```
+
