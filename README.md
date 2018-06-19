@@ -2,7 +2,7 @@
 
 To run from command line:
 ```bash
-$ cd TicTacToe
+$ cd PasswordTester
 $ javac src/*.java
 $ java -cp src PasswordTester
 ```
